@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-body{
+    background-color: black;
+}
+.card{
+    border: none;
+    background-color: black;
+}   
+.card img{
+    border-radius: 6px;
+}
+.card-body h3{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    font-family: "Arial";
+    font-weight: normal;
+    font-style: italic;
+    text-transform: uppercase;
+}
+hr{
+    border-color: white;
+}
+h5{
+    color: rgb(80, 80, 228);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
